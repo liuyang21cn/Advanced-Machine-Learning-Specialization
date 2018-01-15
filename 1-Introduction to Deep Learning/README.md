@@ -47,3 +47,6 @@ First you need to download necessary resources, to do that open `download_resour
 and run cells for Keras and your week.
 
 Now you can open a notebook for the corresponding week and work there just like in Coursera Jupyter Environment.
+
+# My own Notes
+I will update each homework notebook when finished each week's work.
