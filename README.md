@@ -1,5 +1,5 @@
 # Advanced-Machine-Learning-Specialization
-1. Introduction to Deep Learning (Finished)
+~~1. Introduction to Deep Learning~~
 2. How to Win a Data Science Competition: Learn from Top Kagglers(ongoing)
 3. Bayesian Methods for Machine Learning(ongoing)
 4. Practical Reinforcement Learning
